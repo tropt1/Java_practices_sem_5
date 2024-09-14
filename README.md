@@ -4,20 +4,7 @@
 # How to use
 ```
 # Clone the repository
-git clone https://github.com/tropt1/sudoku_solver
+git clone https://github.com/tropt1/Java_practices_sem_5.git
 
-# Create and activate virtual environment
-python -m venv venv
-
-# For linux/macos
-source ./venv/bin/activate
-
-# For windows
-./venv/Scripts/activate.bat
-
-# Install dependencies
-pip install -f requirements.txt
-
-# Run sudoku solver
-python sudoku.py
+Then use your IDE to run
 ```
