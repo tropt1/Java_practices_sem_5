@@ -1,4 +1,4 @@
-package prac_3.app;
+package prac_3;
 
 import prac_3.vehicles.Car;
 import prac_3.vehicles.ElectricCar;
