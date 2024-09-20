@@ -6,7 +6,7 @@ public class ex_2 {
         Car car1 = new Car("Toyota", "ABC123", "Красная", 2015);
         Car car2 = new Car();
         Car car3 = new Car("Honda", 2018);
-        
+
         // тест To_String()
         System.out.println("Машина 1: " + car1.To_String());
         System.out.println("Машина 2: " + car2.To_String());
