@@ -10,7 +10,7 @@ public class TestCar {
         car.setColor("Black");
         electricCar.setOwnerName("Zapupa");
 
-        System.out.println(car.toString());
-        System.out.println(electricCar.toString());
+        System.out.println(car);
+        System.out.println(electricCar);
     }
 }

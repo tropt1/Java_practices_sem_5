@@ -76,7 +76,6 @@ public abstract class Vehicle {
 
     public abstract String vehicleType();
 
-    @Override
     public String toString() {
         return "Model: " + model + ", License: " + license + ", Color: " + color + ", Year: " + year + ", Owner: " +
                 ownerName + ", Insurance: " + insuranceNumber + ", Engine Type: " + engineType;
