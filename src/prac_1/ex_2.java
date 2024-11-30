@@ -24,5 +24,4 @@ public class ex_2 {
 
         System.out.println(yuan + word + " в рублях: " + rubles);
     }
-
 }
