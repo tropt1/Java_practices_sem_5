@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Генератор случайных чисел</title>
+</head>
+<body style="font-family: Arial, sans-serif;">
+<h1>Генератор случайных чисел</h1>
+<form action="/random" method="get">
+    Минимальное значение: <input type="number" name="min" required><br><br>
+    Максимальное значение: <input type="number" name="max" required><br><br>
+    <button type="submit">Сгенерировать</button>
+</form>
+<div>
+    <!-- Сюда сервер подставит случайное число -->
+    <h2>%RANDOM_NUMBER%</h2>
+</div>
+<hr>
+<p>ФИО: Иванов Иван Иванович, Шифр: ИИ12345</p>
+</body>
+</html>
