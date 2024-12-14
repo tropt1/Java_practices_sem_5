@@ -13,7 +13,7 @@
 
 # Installation
 
-Для скачивания склонируйте проект к себе на компьютер:
+Для скачивания склонируйте проект себе на компьютер:
 
 ```shell
 git clone https://github.com/tropt1/Java_practices_sem_5.git
